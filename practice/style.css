@@ -1,0 +1,26 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.main{
+    background-color: aqua;
+    height: 100px;
+    width: 100%;
+    display: flex;
+    justify-content: space-evenly;
+}
+.main .one{
+    height: 100%;
+    width: 100px;
+    background-color: red;
+}
+.main .two{
+    height: 100%;
+    width: 100px;
+    background-color: rgb(52, 43, 185);
+}
+.main .three{
+    height: 100%;
+    width: 100px;
+    background-color: rgb(73, 176, 53);
+}
